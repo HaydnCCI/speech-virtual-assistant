@@ -1,0 +1,4 @@
+elasticsearch==7.10.1 
+speechrecognition==3.7.1
+moviepy==1.0.1
+selenium==3.141.0
